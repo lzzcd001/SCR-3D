@@ -22,4 +22,6 @@ If you find our work useful in your research, please consider to cite:
       author={Liu, Weiyang and Liu, Zhen and Paull, Liam and Weller, Adrian and Schölkopf, Bernhard},
       booktitle = {ECCV},
       year={2022}
-    }
+    }Un
+
+This repository is built largely based on the great work of [unsup3d](https://github.com/elliottwu/unsup3d).
